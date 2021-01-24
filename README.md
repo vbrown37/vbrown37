@@ -23,7 +23,7 @@ I love Tech ! Always motivated to learn new things !
 
 ### 𝓢𝓽𝓪𝓽𝓼 📈
 
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Axzial&show_icons=true&bg_color=45,1E6BFF,C523FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Axzial&include_all_commits=true&count_private=true&show_icons=true&bg_color=45,1E6BFF,C523FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
 
 ### 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 📇
 
